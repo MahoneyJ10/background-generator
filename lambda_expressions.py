@@ -5,7 +5,7 @@ Created on Thu Apr 28 18:23:25 2022
 @author: c1534096
 """
 
-my_list = [5,4,3]
+my_list = [5,4,6]
 
 x = list(map(lambda item:item**2,my_list))
 #print(x)
